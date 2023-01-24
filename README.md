@@ -7,7 +7,7 @@ Puede usar el archivo bat o ya el archivo compilado a .exe
 
 <b>1-</b> Copie el programa en el mismo directorio donde se encuentra su carpeta.<br>
 <b>2-</b> Ejecute el Programa teniendo en cuenta los siguientes puntos
-<li style="color: red;">Debe recordar la clave que establezca</li>
+<li">Debe recordar la clave que establezca</li>
 <li>Debe recordar el nombre de la carpeta que desee bloquear</li><br>
 <b>3-</b> Siga las Instrucciones que tiene el programa
 
